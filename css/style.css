@@ -7,7 +7,7 @@ h1,h2,h3,h4,h5,h6{
     font-weight: bold;
 }
 img{
-    max-width: 60%;
+    max-width: 80%;
     height: auto;
 }
 
@@ -84,7 +84,7 @@ ul,ol
 /*ABOUT*/
 #about{
     padding-top: 100px;
-    background: #FFE4C4;
+    background: #F5FFFA	;
 }
 
 .profile-picture{
@@ -134,7 +134,7 @@ ul,ol
 }
 #skills .progress-bar
 {
-    background: #5F9EA0;
+    background: #696969	;
 }
 #skills .progress h5
 {
@@ -159,7 +159,7 @@ ul,ol
 }
 #skills1 .progress-bar
 {
-    background: #5F9EA0;
+    background: #696969	;
 }
 #skills1 .progress h5
 {
@@ -168,7 +168,7 @@ ul,ol
 /* EXPERIENCE */
 #experience
 {
-    background: #FFE4C4;
+    background: #F5F5DC;
 }
 #experience .heading h2
 {
@@ -277,7 +277,7 @@ ul,ol
 /* EDUCATION*/
 #education
 {
-    background: #5F9EA0;
+    background: #F5FFFA;
 }
 #education .heading h2
 {
@@ -386,7 +386,7 @@ ul,ol
 /* PORTFOLIO */
 #portfolio
 {
-    background: #FFE4C4;
+    background: #F5F5DC;
 }
 #portfolio .heading h2
 {
